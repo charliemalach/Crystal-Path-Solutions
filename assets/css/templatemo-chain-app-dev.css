@@ -1012,34 +1012,36 @@ Services Style
   background-image: url(../images/service-icon-01.png);
 }
 
-.first-service:hover .icon {
-  background-image: url(../images/service-icon-hover-01.png);
-}
-
 .second-service .icon {
   background-image: url(../images/service-icon-02.png);
 }
 
-.second-service:hover .icon {
-  background-image: url(../images/service-icon-hover-02.png);
-}
-
-
 .third-service .icon {
   background-image: url(../images/service-icon-03.png);
-}
-
-.third-service:hover .icon {
-  background-image: url(../images/service-icon-hover-03.png);
 }
 
 .fourth-service .icon {
   background-image: url(../images/service-icon-04.png);
 }
 
-.fourth-service:hover .icon {
-  background-image: url(../images/service-icon-hover-04.png);
+
+.fifth-service .icon {
+  background-image: url(../images/service-icon-05.png);
 }
+
+.sixth-service .icon {
+  background-image: url(../images/service-icon-06.png);
+}
+
+.seventh-service .icon {
+  background-image: url(../images/service-icon-07.png);
+}
+
+
+.eighth-service .icon {
+  background-image: url(../images/service-icon-08.png);
+}
+
 
 .service-item:hover {
   background-image: url(../images/service-bg.jpg);
